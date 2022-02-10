@@ -1,0 +1,186 @@
+[
+ {
+  "ABC Company": "Street Address-273\/3,Chapakhana",
+  "Column3": null,
+  "Column4": "Phone Number-01727770124",
+  "Column5": null,
+  "Column6": "Email-sadmanshahriare.akash@gmail.com",
+  "Column7": null
+ },
+ {
+  "ABC Company": "City-Karwar Bazar,Dhaka",
+  "Column3": null,
+  "Column4": "Fax Number- 2376289",
+  "Column5": null,
+  "Column6": "Website-abccompany.net",
+  "Column7": null
+ },
+ {
+  "ABC Company": "Bill To: ",
+  "Column3": "   Owner",
+  "Column4": "Phone:  01620988861  ",
+  "Column5": null,
+  "Column6": "Invoice #      : 03",
+  "Column7": null
+ },
+ {
+  "ABC Company": "Address: ",
+  "Column3": "Lakshmipur,Chittagong",
+  "Column4": "Fax    :  271231412",
+  "Column5": null,
+  "Column6": "Invoice Date: 07-10-2017",
+  "Column7": null
+ },
+ {
+  "ABC Company": null,
+  "Column3": null,
+  "Column4": "Email :  toxin1818@gmail.com ",
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "ABC Company": "Invoice For: Owner ",
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null,
+  "Column7": null
+ },
+ {
+  "ABC Company": "Item #",
+  "Column3": "Description",
+  "Column4": "Qty",
+  "Column5": "Unit Price",
+  "Column6": "Discount",
+  "Column7": "Price"
+ },
+ {
+  "ABC Company": 1,
+  "Column3": "Dairy Milk Chocolate",
+  "Column4": 150,
+  "Column5": 20,
+  "Column6": 50,
+  "Column7": 2950
+ },
+ {
+  "ABC Company": 2,
+  "Column3": "KitKat Chocolate",
+  "Column4": 250,
+  "Column5": 35,
+  "Column6": 50,
+  "Column7": 8700
+ },
+ {
+  "ABC Company": 3,
+  "Column3": "Pran Toast",
+  "Column4": 30,
+  "Column5": 48,
+  "Column6": 40,
+  "Column7": 1400
+ },
+ {
+  "ABC Company": 4,
+  "Column3": "Igloo Cone Ice cream",
+  "Column4": 30,
+  "Column5": 45,
+  "Column6": 50,
+  "Column7": 1300
+ },
+ {
+  "ABC Company": 5,
+  "Column3": "Soft Drinks(Coke)",
+  "Column4": 50,
+  "Column5": 35,
+  "Column6": 10,
+  "Column7": 1740
+ },
+ {
+  "ABC Company": 6,
+  "Column3": "Pringles ",
+  "Column4": 20,
+  "Column5": 110,
+  "Column6": 20,
+  "Column7": 2180
+ },
+ {
+  "ABC Company": 7,
+  "Column3": "Cigarettes",
+  "Column4": 40,
+  "Column5": 270,
+  "Column6": 100,
+  "Column7": 10700
+ },
+ {
+  "ABC Company": 8,
+  "Column3": "Lighter",
+  "Column4": 50,
+  "Column5": 10,
+  "Column6": 10,
+  "Column7": 490
+ },
+ {
+  "ABC Company": 9,
+  "Column3": "Vaseline",
+  "Column4": 10,
+  "Column5": 50,
+  "Column6": 10,
+  "Column7": 490
+ },
+ {
+  "ABC Company": 10,
+  "Column3": "Perfume",
+  "Column4": 10,
+  "Column5": 200,
+  "Column6": 10,
+  "Column7": 1990
+ },
+ {
+  "ABC Company": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": "Invoice Subtotal",
+  "Column7": 31940
+ },
+ {
+  "ABC Company": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": "Tax Rate",
+  "Column7": 0.05
+ },
+ {
+  "ABC Company": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": "Sales Tax",
+  "Column7": 1597
+ },
+ {
+  "ABC Company": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": "Other",
+  "Column7": 300
+ },
+ {
+  "ABC Company": "Make all checks payable to ABC Company.",
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": "Deposit Received",
+  "Column7": 15837
+ },
+ {
+  "ABC Company": "Total due in <15> days. Overdue accounts subject to a service charge of <5>% per month.",
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": "TOTAL",
+  "Column7": 18000
+ }
+]
